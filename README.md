@@ -74,7 +74,7 @@ $$
 [Ссылка на репозиторий GitHub](https://github.com/Artem4134/lab4_ponomarencko.git)
 
 ![Frontend](repo/browser_Ponomarencko.png)
-![Backend](repo/backend_Ponomarencko.png)
+![Backend](repo//backend_Ponomarencko.png)
 ![Terminal](repo/terminal_Ponomarencko.png)
 ![Git History](repo/git_Ponomarencko.png)
 
